@@ -1,0 +1,10 @@
+﻿  example.cpp
+C:\Users\Martin\source\repos\Boost test\Boost test\example.cpp(31,18): error C2143: syntax error: missing ';' before '*'
+C:\Users\Martin\source\repos\Boost test\Boost test\example.cpp(31,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Martin\source\repos\Boost test\Boost test\example.cpp(31,28): error C2238: unexpected token(s) preceding ';'
+C:\Users\Martin\source\repos\Boost test\Boost test\example.cpp(86,11): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\Martin\source\repos\Boost test\Boost test\example.cpp(87,11): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+C:\Users\Martin\source\repos\Boost test\Boost test\example.cpp(173,12): error C2039: 'arrayPtr': is not a member of 'TransferPointArray'
+  C:\Users\Martin\source\repos\Boost test\Boost test\example.cpp(30,8):
+  see declaration of 'TransferPointArray'
+  

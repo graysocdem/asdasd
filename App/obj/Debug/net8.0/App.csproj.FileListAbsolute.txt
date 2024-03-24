@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\Boost test\App\bin\Debug\net8.0\App.exe
+C:\Users\Martin\source\repos\Boost test\App\bin\Debug\net8.0\App.deps.json
+C:\Users\Martin\source\repos\Boost test\App\bin\Debug\net8.0\App.runtimeconfig.json
+C:\Users\Martin\source\repos\Boost test\App\bin\Debug\net8.0\App.dll
+C:\Users\Martin\source\repos\Boost test\App\bin\Debug\net8.0\App.pdb
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\App.dll
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\refint\App.dll
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\App.pdb
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\App.genruntimeconfig.cache
+C:\Users\Martin\source\repos\Boost test\App\obj\Debug\net8.0\ref\App.dll
